@@ -16,7 +16,6 @@
 
 ## 下载与使用
 
-进入仓库的 **Releases**，下载 `WordLineWriter-v0.3.0-beta.zip`。完整解压后运行「单行写作.exe」。
 
 1. 打开一个 Word 文档。
 2. 双击「单行写作.exe」，点击「开始写作」。
